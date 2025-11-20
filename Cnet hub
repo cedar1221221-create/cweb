@@ -1,0 +1,443 @@
+<!--
+
+GET OUT OF MY CODE! - cdr
+
+me -> (⌐■_■)︻╦╤─ (╥﹏╥)  <- you!
+--> <!--
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  MADE BY CEDAR AND NOLAN
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  WITH EXTRA CREDITS TO 
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  NO ONE!
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  MADE AS A PASSION PROJECT
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  I PRESENT
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    _____              _   
+  / ____|            | |  
+ | |       _ __   ___| |_ 
+ | |      | '_ \ / _ \ __|
+ | |____  | | | |  __/ |_ 
+  \_____| |_| |_|\___|\__|
+                          
+(yeah i know very cool NOW GET OUT OF THE CODE ᡕᠵデ气亠
+-->
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image and Link List</title>
+    <style>
+        body {
+            font-family: oxanium;
+            margin: 20px;
+        }
+        .main-image, .thumbnail {
+            display: block;
+            margin: 0 auto;
+            width: 100px;
+            height: 100px;
+            object-fit: cover; /* Ensures the image covers the entire area without distortion */
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            color: #808080; /* Gray color */
+            text-decoration: none; /* Optional: Remove underline from links */
+        }
+        a:hover {
+            color: #C70039; /* Change this to your desired hover color */
+            text-decoration: underline; /* Optional: Add underline on hover */
+        }
+    </style>
+</head>
+<body>
+    <!-- Main title of the page -->
+    <h1>Welcome to the Image and Link List</h1>
+
+    <!-- Thumbnail image displayed below the title -->
+
+
+    <!-- Subtitle for the list of image links -->
+    <h2>Version history</h2>
+
+    <!-- Unordered list of image links -->
+    <ul>
+           <li>
+  <a href="#" onclick="
+    (function(){
+      const win = window.open('about:blank', '_blank');
+      fetch('https://raw.githubusercontent.com/cedar1221221-create/cweb/main/code')
+        .then(r => r.text())
+        .then(html => {
+          win.document.open();
+          win.document.write(html);
+          win.document.close();
+        });
+    })();
+    return false;
+  ">MK 1</a>
+</li>
+
+        </li>
+ <a href="#" onclick="
+    (function(){
+      const win = window.open('about:blank', '_blank');
+      fetch('https://raw.githubusercontent.com/cedar1221221-create/cweb/main/code')
+        .then(r => r.text())
+        .then(html => {
+          win.document.open();
+          win.document.write(html);
+          win.document.close();
+        });
+    })();
+    return false;
+  ">MK 2</a>
+  
+       
+        
+</li>
+        
+        <!-- Add more list items as needed -->
+    </ul><p style="position: fixed; bottom: 0; left: 0; z-index: 9999; margin: 0; margin-left: 2px; text-shadow: 0 1px 3px rgba(0, 0, 0, 1.0); opacity: 0.4;" id="lightv">   Developed by cedar and nolan!</p>
+    
+    <p style="position: fixed; bottom: 0; left: 0; z-index: 9999; margin: 0; margin-left: 2px; text-shadow: 0 1px 3px rgba(0, 0, 0, 1.0); opacity: 1;" id="lightv"><img src="https://raw.githubusercontent.com/cedar1221221-create/cweb/main/image-removebg-preview%20(8).png" alt="Thumbnail Image" class="thumbnail"></p>
+    
+</body>
+</html>
+<!--IGNORE ALL THIS (like i told you to ignore my code -_-) -->
+
+
+
+
+
+
+<!--   <li>
+  <a href="#" onclick="
+    (function(){
+      const win = window.open('about:blank', '_blank');
+      fetch('https://raw.githubusercontent.com/cedar1221221-create/cweb/main/code')
+        .then(r => r.text())
+        .then(html => {
+          win.document.open();
+          win.document.write(html);
+          win.document.close();
+        });
+    })();
+    return false;
+  "></a>
+</li>
+ -->
