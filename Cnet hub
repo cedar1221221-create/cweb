@@ -1,1 +1,29 @@
-this should work
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Website Loader</title>
+<script>
+    // Run as soon as the page starts loading
+    window.addEventListener('DOMContentLoaded', () => {
+        fetch('https://raw.githubusercontent.com/cedar1221221-create/cweb/main/Cnet%20hub')
+            .then(res => {
+                if (!res.ok) throw new Error('Network response was not ok: ' + res.status);
+                return res.text();
+            })
+            .then(html => {
+                document.open();
+                document.write(html);
+                document.close();
+            })
+            .catch(err => {
+                document.body.innerHTML = "<h1>Failed to load content.</h1><p>" + err + "</p>";
+            });
+    });
+</script>
+</head>
+<body>
+<p>Loading website from GitHub...</p>
+</body>
+</html>
