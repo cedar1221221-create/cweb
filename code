@@ -7,7 +7,7 @@
 <script>
     // Run as soon as the page starts loading
     window.addEventListener('DOMContentLoaded', () => {
-        fetch('https://raw.githubusercontent.com/cedar1221221-create/cweb/main/Cnet%20hub')
+        fetch('https://raw.githubusercontent.com/cedar1221221-create/cweb/refs/heads/main/w1')
             .then(res => {
                 if (!res.ok) throw new Error('Network response was not ok: ' + res.status);
                 return res.text();
