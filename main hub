@@ -1,6 +1,7 @@
 <!--
 
-GET OUT OF MY CODE! - cdr
+GET OUT OF THE CODE! - cdr
+
 
 me -> (⌐■_■)︻╦╤─ (╥﹏╥)  <- you!
 --> <!--
@@ -36,8 +37,12 @@ me -> (⌐■_■)︻╦╤─ (╥﹏╥)  <- you!
  
  
  
- 
- 
+                            _____
+         |\_______________ (_____\\_________________
+    ====#H###############H##########################|
+        ' ~""""""""""""""`##(_))#H\"""""Y###########|
+                          ))    \#H\       `"<######|
+                          "      }#H)
  
  
  
@@ -222,19 +227,28 @@ me -> (⌐■_■)︻╦╤─ (╥﹏╥)  <- you!
  | |      | '_ \ / _ \ __|
  | |____  | | | |  __/ |_ 
   \_____| |_| |_|\___|\__|
-                          
+
+
 (yeah i know very cool NOW GET OUT OF THE CODE ᡕᠵデ气亠
 -->
 
 <html lang="en">
 <head>
+  <link href='https://fonts.googleapis.com/css?family=Oxanium' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Oxanium';font-size: 22px;
+}
+</style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CNET</title>
     <style>
-        body {
-            font-family: oxanium;
+    <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@700&amp;display=swap" rel="stylesheet">
+    font-family: oxanium;
             margin: 20px;
+        body {
+        
         }
         .main-image, .thumbnail {
             display: block;
@@ -268,86 +282,45 @@ me -> (⌐■_■)︻╦╤─ (╥﹏╥)  <- you!
 
     <ul>
            <li>
-  <a href="#" onclick="
-    (function(){
-      const win = window.open('about:blank', '_blank');
-      fetch('https://raw.githubusercontent.com/cedar1221221-create/cnet/refs/heads/main/code')
-        .then(r => r.text())
-        .then(html => {
-          win.document.open();
-          win.document.write(html);
-          win.document.close();
-        });
-    })();
-    return false;
-  ">W1</a>
+ <a href="#" onclick="
+  fetch('https://raw.githubusercontent.com/cedar1221221-create/cnet/refs/heads/main/w1')
+    .then(r => r.text())
+    .then(html => {
+      const win = window.open('', '_blank');
+
+      setTimeout(() => {
+        win.document.open();
+        win.document.write(html);
+        win.document.close();
+      }, 50);
+    });
+  return false;
+">W1</a>
 </li>
 
-        </li>
- <a href="#" onclick="
-    (function(){
-      const win = window.open('about:blank', '_blank');
-      fetch('https://raw.githubusercontent.com/cedar1221221-create/cnet/refs/heads/main/code')
-        .then(r => r.text())
-        .then(html => {
-          win.document.open();
-          win.document.write(html);
-          win.document.close();
-        });
-    })();
-    return false;
-  ">W2</a>
-  
-       
-        
-</li>
+<a href="#" onclick="
+  fetch('https://raw.githubusercontent.com/cedar1221221-create/cnet/refs/heads/main/w2')
+    .then(r => r.text())
+    .then(html => {
+      const win = window.open('', '_blank');
+
+      setTimeout(() => {
+        win.document.open();
+        win.document.write(html);
+        win.document.close();
+      }, 50); // give the browser time to finish opening the tab
+    });
+  return false;
+">W2</a>
         
     </ul><p style="position: fixed; bottom: 0; left: 0; z-index: 9999; margin: 0; margin-left: 2px; text-shadow: 0 1px 3px rgba(0, 0, 0, 1.0); opacity: 0.4;" id="lightv">   Developed by cedar and nolan! </p>       
     
-    </ul><p style="position: fixed; bottom: 0; left: 0; z-index: 99999; margin: 0; margin-left: 400px; text-shadow: 0 1px 3px rgba(0, 0, 0, 1.0); opacity: 0.8;" id="lightv">    this is the main hub. all websites will be here. this auto updates when reloaded to the newest Version if a website was updated when u click on it it will load to the newest Version.
+    </ul><p style="position: fixed; bottom: 0; left: 0; z-index: 99999; margin: 0px; margin-left: 400px; text-shadow: 0 1px 3px rgba(0, 0, 0, 1.0); opacity: 0.8;" id="lightv">    this is the main hub. all websites will be here. this auto updates when reloaded to the newest Version.
 
     
     <p style="position: fixed; bottom: 0; left: 0; z-index: 9999; margin: 0; margin-left: 2px; text-shadow: 0 1px 3px rgba(0, 0, 0, 1.0); opacity: 1;" id="lightv"><img src="https://raw.githubusercontent.com/cedar1221221-create/cweb/main/image-removebg-preview%20(9).png" alt="Thumbnail Image" class="thumbnail"></p>
     
 </body>
 </html>
-<!--IGNORE ALL THIS (like i told you to ignore my code -_-) -->
+<!--IGNORE ALL THIS ITS A STORAGE AREA FOR WHEN IM EDITING THIS CODE! (like i told you to ignore my code -_-) -->
 
-
-
-
-
-
-<!--   <li>
-  <a href="#" onclick="
-    (function(){
-      const win = window.open('about:blank', '_blank');
-      fetch('https://raw.githubusercontent.com/cedar1221221-create/cweb/main/code')
-        .then(r => r.text())
-        .then(html => {
-          win.document.open();
-          win.document.write(html);
-          win.document.close();
-        });
-    })();
-    return false;
-  "></a>
-</li>
-
-
-
-
-
-
- this is the main hub. all websites will be here. this auto updates when reloaded to the newest Version if a website was updated when u click on it it will load to the newest Version.
-
-
-
-
-
-
-
-
-
-
- -->
