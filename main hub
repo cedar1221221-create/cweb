@@ -271,7 +271,7 @@ me -> (⌐■_■)︻╦╤─ (╥﹏╥)  <- you!
   <a href="#" onclick="
     (function(){
       const win = window.open('about:blank', '_blank');
-      fetch('https://raw.githubusercontent.com/cedar1221221-create/cweb/main/code')
+      fetch('https://raw.githubusercontent.com/cedar1221221-create/cnet/refs/heads/main/code')
         .then(r => r.text())
         .then(html => {
           win.document.open();
@@ -287,7 +287,7 @@ me -> (⌐■_■)︻╦╤─ (╥﹏╥)  <- you!
  <a href="#" onclick="
     (function(){
       const win = window.open('about:blank', '_blank');
-      fetch('https://raw.githubusercontent.com/cedar1221221-create/cweb/main/code')
+      fetch('https://raw.githubusercontent.com/cedar1221221-create/cnet/refs/heads/main/code')
         .then(r => r.text())
         .then(html => {
           win.document.open();
